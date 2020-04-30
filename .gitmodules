@@ -1,0 +1,7 @@
+[submodule "quickstart/themes/coder"]
+	path = quickstart/themes/coder
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "quickstart/public"]
+	path = quickstart/public
+	url = https://github.com/dimillian/dimillian.github.io.git
+	branch = master
